@@ -5664,7 +5664,6 @@
                   "isConfigOverride": false,
                   "isComponentId": false,
                   "valueProviderModel": {
-                    "actingParameters": [],
                     "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
@@ -15017,7 +15016,6 @@
                   "isConfigOverride": false,
                   "isComponentId": false,
                   "valueProviderModel": {
-                    "actingParameters": [],
                     "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
@@ -21473,7 +21471,6 @@
                   "isConfigOverride": false,
                   "isComponentId": false,
                   "valueProviderModel": {
-                    "actingParameters": [],
                     "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
@@ -28782,7 +28779,6 @@
                   "isConfigOverride": false,
                   "isComponentId": false,
                   "valueProviderModel": {
-                    "actingParameters": [],
                     "parameters": [],
                     "partOrder": 1,
                     "providerName": "parameter",
